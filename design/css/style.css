@@ -1,0 +1,50 @@
+.bg-pink{
+    background-color: #F04688;
+    margin-bottom:5%;
+}
+.btn-inscricao{
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    background-color:#F04688;
+    font-weight: bold;
+    padding: 7px;
+    margin-top: 10px;
+}
+
+.logo{
+    width: 300px;
+}
+
+h1{
+   font-size: 33px;
+   margin-bottom: 20px;
+   font-weight: bold;
+}
+
+.btn-formulario{
+    color: #F04688;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    background-color:#Fff;
+    font-weight: bold;
+    padding: 14px;
+    margin-top: 10px;
+    border-radius: 55px;
+}
+
+.foto{
+    width: 70%;
+    margin-bottom: 5%;
+}
+
+a{
+    color: #000;
+}
+
+@media only screen and (max-width: 650px){
+    iframe{
+        width: 75vw;
+    }
+}
+
